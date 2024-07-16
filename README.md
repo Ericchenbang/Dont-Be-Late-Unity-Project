@@ -27,7 +27,7 @@
   all of their hearts and consequently loss
 - There is also a famous spot called "NCKU pond", if player drop in this big pond, they will also loss
 # Quick Demo
-- Demo vedio: https://youtu.be/otXm0rD-444
+- Demo video: https://youtu.be/otXm0rD-444
 
 # Need to improve
 - Help button in game
